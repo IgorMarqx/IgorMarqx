@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Igor Marques, Desenvolvedor Frond-end 😄
 
-<a target="_blank" href="[![Portfolio](https://img.shields.io/website-up-down-purple-red/http/monip.org.svg)](https://igormarqx.github.io)">
+[![Portfolio](https://img.shields.io/website-up-down-purple-red/http/monip.org.svg)](https://igormarqx.github.io)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igormarques2863/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-marques-982143232/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorMarqx)
