@@ -1,4 +1,4 @@
-### Olá! Meu nome é Igor Marques, Desenvolvedor Frond-end 😄
+### Olá! Meu nome é Igor Marques, e sou um Desenvolvedor Frond-end 😄
 
 [![Portfolio](https://img.shields.io/website-up-down-purple-red/http/monip.org.svg)](https://igormarqx.github.io)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igormarques2863/)
