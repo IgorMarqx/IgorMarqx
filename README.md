@@ -41,4 +41,6 @@ Apaixonado pela tecnologia, aprendendo a ser um desenvolvedor melhor todos os di
 
 ![VSCODE](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-  ![Snake animation](https://github.com/rafaballerini/IgorMarqx/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  
