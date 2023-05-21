@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F03C2F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Igor+Marques;I'm+System+Developer+Laravel+and+PHP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorMarqx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorMarqx&show_icons=true&count_private=true&hide_border=true&title_color=F03C2F&icon_color=F03C2F&text_color=c9d1d9&bg_color=0d1117" alt="Igor Marques github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarqx&layout=compact&hide_border=true&title_color=F03C2F&text_color=FFF&bg_color=0d1117" />
