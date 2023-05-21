@@ -9,9 +9,9 @@
 
 
 <div align="center">  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=agilsonaraujoo&theme=dark&hide_border=false)<br/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorMarqx&show_icons=true&count_private=true&hide_border=true&title_color=F03C2F&icon_color=F03C2F&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorMarqx&show_icons=true&count_private=true&hide_border=true&title_color=F03C2F&icon_color=F03C2F&text_color=c9d1d9&bg_color=0d1117" alt="Igor Marques github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarqx&layout=compact&hide_border=true&title_color=F03C2F&text_color=FFF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://streak-stats.demolab.com?user=IgorMarqx&theme=gruvbox-duo&hide_border=true&border_radius=2&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=EB545400&border=CC352B&stroke=CC352B&ring=CC352B&fire=CC352B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 </div>
 
 <div align="center"> 
