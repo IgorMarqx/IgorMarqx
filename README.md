@@ -24,5 +24,17 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp; 
+  
+  
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br>
+</div>
+  
+  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IgorMarqx&bg_color=232323&color=f53f32&line=f94134&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F03C2F&height=120&section=footer"/>
