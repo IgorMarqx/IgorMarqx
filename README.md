@@ -9,6 +9,7 @@
 
 
 <div align="center">  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=agilsonaraujoo&theme=dark&hide_border=false)<br/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorMarqx&show_icons=true&count_private=true&hide_border=true&title_color=F03C2F&icon_color=F03C2F&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarqx&layout=compact&hide_border=true&title_color=F03C2F&text_color=FFF&bg_color=0d1117" />
 </div>
