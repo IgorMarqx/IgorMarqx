@@ -28,8 +28,5 @@
 </div>
   
   
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IgorMarqx&bg_color=232323&color=f53f32&line=f94134&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F03C2F&height=120&section=footer"/>
